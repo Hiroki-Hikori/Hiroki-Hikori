@@ -2,16 +2,14 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">I'm a C++ developer looking for freelancers opportunities, full-time positions and also working on my own projects in my free time. The goal of this Github profile is to share tools with other people. <br><br>I have work on many projects with other dev's in using different languages such as: python / html - css / c / php, which has given me a broead programming background. However, I intend to specialize primarily in C++.<br><br>I have been studying programming for 5 years, along with cybersecurity. You can see demonstrations of this knowledge in my project repositories; feel free to explore my profile and contact with me.</p>
+<p align="left">Hello World!I'm a C++ developer looking for freelancers opportunities, full-time positions and also working on my own projects in my free time. The goal of this Github profile is to share tools with other people. <br><br>I have work on many projects with other dev's in using different languages such as: python / html - css / c / php, which has given me a broead programming background. However, I intend to specialize primarily in C++.<br><br>I have been studying programming for 5 years, along with cybersecurity. You can see demonstrations of this knowledge in my project repositories; feel free to explore my profile and contact with me.</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="60" alt="debian logo"  />
   <img width="12" />
