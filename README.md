@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!I'm a C++ developer looking for freelancers opportunities, full-time positions and also working on my own projects in my free time. The goal of this Github profile is to share tools with other people. <br><br>I have work on many projects with other dev's in using different languages such as: python / html - css / c / php, which has given me a broead programming background. However, I intend to specialize primarily in C++.<br><br>I have been studying programming for 5 years, along with cybersecurity. You can see demonstrations of this knowledge in my project repositories; feel free to explore my profile and contact with me.</p>
+<p align="center">Hello World!I'm a C++ developer looking for freelancers opportunities, full-time positions and also working on my own projects in my free time. The goal of this Github profile is to share tools with other people. <br><br>I have work on many projects with other dev's in using different languages such as: python / html - css / c / php, which has given me a broead programming background. However, I intend to specialize primarily in C++.<br><br>I have been studying programming for 5 years, along with cybersecurity. You can see demonstrations of this knowledge in my project repositories; feel free to explore my profile and contact with me.</p>
 
 ###
 
