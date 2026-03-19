@@ -26,11 +26,3 @@
 <div align="center">
   <img src="https://count.getloli.com/@:Hiroki-Hikori?theme=original-new&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-<hr> 
-<p align="center">
-  nostr: 
-  <a href="https://primal.net/p/nprofile1qqst9zt3hf8ax5jqd35ynemtqz4prhfqm83tye964uuga3ukfjxt33cyvlud0">
-    primal.net/p/nprofile1qqst9zt3hf8ax5jqd35ynemtqz4prhfqm83tye964uuga3ukfjxt33cyvlud0
-  </a>
-</p>
