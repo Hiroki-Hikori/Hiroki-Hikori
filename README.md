@@ -30,7 +30,7 @@
 <hr> 
 <p align="center">
   nostr: 
-  <a href="https://primal.net/p/nprofile1qqst9zt3hf8ax5jqd35ynemtqz4prhfqm83tye964uuga3ukfjxt33cyvlud0" target="_blank">
+  <a href="https://primal.net/p/nprofile1qqst9zt3hf8ax5jqd35ynemtqz4prhfqm83tye964uuga3ukfjxt33cyvlud0">
     primal.net/p/nprofile1qqst9zt3hf8ax5jqd35ynemtqz4prhfqm83tye964uuga3ukfjxt33cyvlud0
   </a>
 </p>
