@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm a C++ developer looking for freelancers opportunities, full-time positions and also working on my own projects in my free time. The goal of this Github profile is to share tools with other people. <br><br>I have work on many projects with other dev's in using different languages such as: python / html - css / c / php, which has given me a broead programming background. However, I intend to specialize primarily in C++.<br><br>You can see demonstrations of this knowledge in my project repositories; feel free to explore my profile and contact with me.</p>
+<p align="left">I am a C++ developer; my work consists of developing libraries, extensions, and useful applications. I am interested in working with cryptography and developing cybersecurity tools. In the future, I will be offering my bug bounty services only for applications.<br>
+
+I am interested in developing automation tools, internal tools for companies, or technical tools. Currently, I accept payment in both Bitcoin and through transactions with my Higlobe bank account.<br>
+
+I have been working with programming for 6 years but started with C++ recently. I have an intermediate level and am always looking to deepen my knowledge of the language.Regarding tools, I work with Linux and Windows. My IDE is QT Creator and NVIM. I use cmake for QT 5 and 6, and for virtual machines, I use QEMU.</p>
 
 <hr> 
 
