@@ -2,12 +2,8 @@
 
 ###
 
-<p align="left">I am a C++ developer; my work consists of developing libraries, extensions, and useful applications. I am interested in working with cryptography and developing cybersecurity tools. In the future, I will be offering my bug bounty services only for applications.<br>
-
-I am interested in developing automation tools, internal tools for companies, or technical tools. Currently, I accept payment in both Bitcoin and through transactions with my Higlobe bank account.<br>
-
-I have been working with programming for 6 years but started with C++ recently. I have an intermediate level and am always looking to deepen my knowledge of the language.Regarding tools, I work with Linux and Windows. My IDE is QT Creator and NVIM. I use cmake for QT 5 and 6, and for virtual machines, I use QEMU.</p>
-
+<p align="left">
+I have been working with programming for 6 years but started with C++ recently. I have an intermediate level and am always looking to deepen my knowledge of the language.Regarding tools, I work with Linux. My IDE is QT Creator and Godot. I use cmake for QT 5 and 6, and for 3D models I use Blender, for my musics I use LMMS.</p>
 <hr> 
 
 
